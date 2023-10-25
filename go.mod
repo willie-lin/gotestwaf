@@ -11,9 +11,9 @@ require (
 	github.com/schollz/progressbar/v3 v3.8.3
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	golang.org/x/text v0.3.6
-	google.golang.org/grpc v1.42.0
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/text v0.9.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v2 v2.2.8
 )
 
@@ -31,18 +31,17 @@ require (
 	github.com/spf13/jwalterweatherman v1.0.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
+	golang.org/x/net v0.9.0
+	golang.org/x/term v0.7.0 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 )
 
 require (
-	github.com/golang/protobuf v1.4.3 // indirect
-	github.com/google/go-cmp v0.5.3 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
-	golang.org/x/sys v0.0.0-20211031064116-611d5d643895 // indirect
-	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
